@@ -6,8 +6,8 @@
 * Sob licença GPL.
 */-->
 <div style="background: #F7F7F7; border: 1px solid #DDDDDD; padding: 10px; margin-bottom: 10px;"><?php echo $text_instruction; ?><br />
-  <br />
-  <a href="index.php?route=payment/boleto_sicredi/callback&order_id=<?php echo $idboleto; ?>" target="_blank">Gerar Boleto Sicredi</a><br />
+<br />
+  <p style="text-align: center;"><a href="index.php?route=payment/boleto_sicredi/callback&order_id=<?php echo $idboleto; ?>" target="_blank"><img src="<?php echo HTTPS_SERVER ?>/boleto/imagens/gerar_boleto.png" alt="Gerar Boleto Sicredi" title="Gerar Boleto Sicredi" /></a></p>
   <br />
   <?php echo $text_payment; ?></div>
 <div class="buttons">
