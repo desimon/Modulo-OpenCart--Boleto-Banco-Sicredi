@@ -1,8 +1,8 @@
-﻿/*
+/*
 * Módulo de Pagamento Boleto Bancário Sicredi
-* Feito sobre OpenCart 1.4.9.3
+* Feito sobre OpenCart 1.5.1.3
 * Autor Guilherme Desimon - http://www.desimon.net
-* @02/2010
+* @01/2012
 * Sob licença GPL.
 */
 
@@ -11,7 +11,7 @@ Instalação:
 1) Extrair para a raiz da loja.
 
 
-2) Na área administrativa da loja dar permissão para o grupo de usuários desejado para acessar e modificar o módulo payment/boleto_sicredi:
+2) Na área administrativa da loja dar permisão para o grupo de usuários desejado para acessar e modificar o módulo payment/boleto_sicredi:
 
 	2.1) Na sua área administrativa "/admin" vá em Sistema -> Usuários -> Grupos de Usuários;
 	
@@ -26,7 +26,7 @@ Instalação:
 
 	3.1) Encontre o módulo "Boleto Bancário Sicredi" e clique em Editar;
 	
-	3.2) Configure os campos necessários de acordo com seu dados de geração de boleto.
+	3.2) Configure os campos necessários de acordo com seus dados de geração de boleto.
 
 
 Instalação Concluída!
