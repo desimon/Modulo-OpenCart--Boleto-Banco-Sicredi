@@ -119,7 +119,7 @@ $dadosboleto["instrucoes4"] = $this->config->get('boleto_sicredi_instrucoes4');
 $dadosboleto["quantidade"] = "";
 $dadosboleto["valor_unitario"] = "";
 $dadosboleto["aceite"] = $this->config->get('boleto_sicredi_aceite');		
-$dadosboleto["especie"] = "R$";
+$dadosboleto["especie"] = "REAL";
 $dadosboleto["especie_doc"] = $this->config->get('boleto_sicredi_especie_doc');
 
 
